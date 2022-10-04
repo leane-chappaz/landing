@@ -1,0 +1,34 @@
+body {
+  font-family: Crimson Text;
+  color: #F1CE75;
+  font-size: 18px;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: Chivo;
+}
+
+a {
+  color: #726FF7;
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+}
+
+a:hover {
+  color: #CE2FAE;
+}
+
+img {
+  width:  100%;
+}
+
+.banner {
+  background-colour:  brown;
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+
+  
